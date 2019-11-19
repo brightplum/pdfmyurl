@@ -102,6 +102,8 @@
  *
  */
 
+namespace PDFMyUrl;
+
 class PDFmyURL {
 	private $endpoint = 'http://pdfmyurl.com/api';
 	

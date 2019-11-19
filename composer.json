@@ -1,0 +1,14 @@
+{
+    "name": "brightplum/pdfmyurl",
+    "description": "Composer package for the pdfmyurl.com class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fmitchell",
+            "email": "fredric@brightplum.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
