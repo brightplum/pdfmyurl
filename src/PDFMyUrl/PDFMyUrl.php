@@ -104,7 +104,7 @@
 
 namespace PDFMyUrl;
 
-class PDFmyURL {
+class PDFMyURL {
 	private $endpoint = 'http://pdfmyurl.com/api';
 	
 	private $tempfile=null, $tempdir, $cleanfilename='My PDF file', $options=array();
